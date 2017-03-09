@@ -6,7 +6,7 @@ Right now my portflio site is broken on small screens and touch screens.  Ideall
 
 ### Moon Lander Game
 
-A simple moon landing game where there are rotate buttons and a thrust button.  A player needs to rotate and thrust to land on specified landing pads
+A simple moon landing game where there are rotate buttons and a thrust button.  A player needs to rotate and thrust to land on specified landing pads.
 
 **Features:**
 
