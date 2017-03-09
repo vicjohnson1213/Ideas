@@ -38,6 +38,8 @@ Use linoleum blocks to make prints.
 
 Either create digital art that can be printed or create hand drawn images that can be scanned and used as art prints.
 
+**Subject Ideas:**
+
 - Personalized morse code posters.
 
 **Links:**
