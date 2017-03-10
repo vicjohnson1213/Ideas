@@ -26,6 +26,10 @@ A side by side markdown editor that shows the markdown on the left and the rende
 
 A website to create and manage tournaments as well as creating teams to sign up for tournaments.
 
+### Reddit API Wrapper for Node.js (In progress)
+
+### Pinterest Style Reddit Client
+
 # Art Project Ideas
 
 ### Linoleum Printing
