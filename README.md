@@ -14,7 +14,7 @@ A simple moon landing game where there are rotate buttons and a thrust button.  
 - Obstacles that will explode the ship if touched.
 - limited fuel.
 
-### Weighted Percentage Calculator
+### Weighted Percentage Calculator (In progress)
 
 A calculator that will compute the final percentage based on category weights and percentages in those categories.
 
