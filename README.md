@@ -26,6 +26,12 @@ A side by side markdown editor that shows the markdown on the left and the rende
 
 A website to create and manage tournaments as well as creating teams to sign up for tournaments.
 
+### The Witness Puzzle Solver
+
+### Twitter Bot for the Raspberry Pi
+
+The Office tweet bot has been out of tweets for a long time and should have something new.
+
 # Art Project Ideas
 
 ### Linoleum Printing
@@ -58,3 +64,9 @@ Either create digital art that can be printed or create hand drawn images that c
 **Links:**
 
 - [How to make them](https://www.reddit.com/r/woahdude/comments/2pvhfh/bismuth_crystal_i_made_it_took_about_30_min/cn0noa8/)
+
+### The Witness Coffee Table
+
+### Raspberry Pi Controlled Plotter
+
+Maybe a V-Plotter or a more regular style plotter.
