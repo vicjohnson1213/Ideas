@@ -14,7 +14,7 @@ A simple moon landing game where there are rotate buttons and a thrust button.  
 - Obstacles that will explode the ship if touched.
 - limited fuel.
 
-### Weighted Percentage Calculator
+### [Weighted Percentage Calculator](https://github.com/vicjohnson1213/Weighted-Percentage-Calculator) (In progress)
 
 A calculator that will compute the final percentage based on category weights and percentages in those categories.
 
@@ -31,6 +31,10 @@ A website to create and manage tournaments as well as creating teams to sign up 
 ### Twitter Bot for the Raspberry Pi
 
 The Office tweet bot has been out of tweets for a long time and should have something new.
+
+### [Reddit API Wrapper for Node.js](https://github.com/vicjohnson1213/Reddit-API) (In progress)
+
+### Pinterest Style Reddit Client
 
 # Art Project Ideas
 
