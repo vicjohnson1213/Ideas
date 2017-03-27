@@ -36,6 +36,8 @@ The Office tweet bot has been out of tweets for a long time and should have some
 
 ### Pinterest Style Reddit Client
 
+### Board Style Project Board
+
 # Art Project Ideas
 
 ### Linoleum Printing
