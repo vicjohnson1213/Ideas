@@ -38,6 +38,10 @@ The Office tweet bot has been out of tweets for a long time and should have some
 
 ### Board Style Project Board
 
+### Color Viewer
+
+You can enter any number of Hex, RGB, RGBA, HSB, etc.. colors and look a them all and drag them around to see how they look next to one another.
+
 # Art Project Ideas
 
 ### Linoleum Printing
