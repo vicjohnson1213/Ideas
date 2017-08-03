@@ -3,6 +3,7 @@
 ### Websites
 
 - Responsive portfolio to replace my current non-responsive one.
+    - Incorporate blog/tutorials pages to share stuff I've learned that may benefit others.
 
 - Weighted percentage calculator allowing for a variable number of inputs at different weights and values.
     - *In Progress* https://github.com/vicjohnson1213/Weighted-Percentage-Calculator
@@ -12,25 +13,26 @@
 - Spotify interface allowing users to search songs and add them to a community queue. Only admin users can remove songs from the queue or switch to the next song.
 
 - Budget manager where users can set up a categorized budget and manage transactions associated with each category.
+    - A complimentary mobile app would be rad.
     - *In Progress* https://github.com/vicjohnson1213/Budget-Manager
     
 - QR code generator.
+
+- Home media library to track movies, music, and other forms of media. Could possibly have some kind of "what movie should we watch?" functionality.
     
 ### Desktop Apps
 
 - Current Spotify song that can be partially transparent and always on top where clicks will pass through to whatever app mighty be running underneath it.
 
 ### Command Line Apps
-
-- Utility to create a CLI based on code. JiT option to run using the interpreter/compiled output directly. AoT option to generate an executable file based on the new CLI.
-    - Node.js
-    - Typescript
     
 - Weather information about any city (with an option for a default).
     - *Created* https://github.com/vicjohnson1213/PyWeather
     
 - A less permanent `rm` command that will use a trash can instead of just wiping files/directories.
     - *Created* https://github.com/vicjohnson1213/SafeRM
+    
+- Daily ToDo list with rollover tasks.
     
 ### Bots
 
@@ -48,6 +50,10 @@
     - Generate a QR code for players to connect to the game.
 
 ### Libraries
+
+- Utility to create a CLI based on code. JiT option to run using the interpreter/compiled output directly. AoT option to generate an executable file based on the new CLI.
+    - Node.js
+    - Typescript
 
 - Reddit API Wrapper for Node.js
     - *In Progress* https://github.com/vicjohnson1213/Reddit-API
