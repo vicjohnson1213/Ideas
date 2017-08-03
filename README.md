@@ -13,8 +13,14 @@
 
 - Budget manager where users can set up a categorized budget and manage transactions associated with each category.
     - *In Progress* https://github.com/vicjohnson1213/Budget-Manager
+    
+- QR code generator.
+    
+### Desktop Apps
 
-### Command Line
+- Current Spotify song that can be partially transparent and always on top where clicks will pass through to whatever app mighty be running underneath it.
+
+### Command Line Apps
 
 - Utility to create a CLI based on code. JiT option to run using the interpreter/compiled output directly. AoT option to generate an executable file based on the new CLI.
     - Node.js
