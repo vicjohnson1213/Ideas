@@ -1,82 +1,54 @@
 # Software Project Ideas
 
-### Responsive Protfolio
+### Websites
 
-Right now my portflio site is broken on small screens and touch screens.  Ideally that site would look good on all devices.
+- Responsive portfolio to replace my current non-responsive one.
 
-### Moon Lander Game
+- Weighted percentage calculator allowing for a variable number of inputs at different weights and values.
+    - *In Progress* https://github.com/vicjohnson1213/Weighted-Percentage-Calculator
 
-A simple moon landing game where there are rotate buttons and a thrust button.  A player needs to rotate and thrust to land on specified landing pads.
+- Color viewer where you can enter any number of colors (Hex, RGB, RGBA, HSB, etc.) colors, look a them all, and drag them around to see how they look next to one another.
 
-**Features:**
+- Spotify interface allowing users to search songs and add them to a community queue. Only admin users can remove songs from the queue or switch to the next song.
 
-- Landing pads that must be landed on to win the game.
-- Obstacles that will explode the ship if touched.
-- limited fuel.
+- Budget manager where users can set up a categorized budget and manage transactions associated with each category.
+    - *In Progress* https://github.com/vicjohnson1213/Budget-Manager
 
-### [Weighted Percentage Calculator](https://github.com/vicjohnson1213/Weighted-Percentage-Calculator) (In progress)
+### Command Line
 
-A calculator that will compute the final percentage based on category weights and percentages in those categories.
+- Utility to create a CLI based on code. JiT option to run using the interpreter/compiled output directly. AoT option to generate an executable file based on the new CLI.
+    - Node.js
+    - Typescript
+    
+- Weather information about any city (with an option for a default).
+    - *Created* https://github.com/vicjohnson1213/PyWeather
+    
+- A less permanent `rm` command that will use a trash can instead of just wiping files/directories.
+    - *Created* https://github.com/vicjohnson1213/SafeRM
+    
+### Bots
 
-### Markdown Editor
+- Quotes Twitter bot to tweet a quote at a specified interval.
+    - *Created* https://github.com/vicjohnson1213/Super-Quote-Bot
+    
+- Discord bot bringing some basic utilities to Discord servers.
+    - Group users in a specific voice channel into groups of a specified size.
+    - Roll an *n* sided die.
+    - *In Progress* https://github.com/vicjohnson1213/Whiff-Bot-Discord
+    
+### Games
 
-A side by side markdown editor that shows the markdown on the left and the rendered results on the right.
+- Open source Cards Against Humanity style game where somebody can start a game and others can connect to it via browser (or maybe a mobile app 🤔).
+    - Generate a QR code for players to connect to the game.
 
-### Tournamet Manager
+### Libraries
 
-A website to create and manage tournaments as well as creating teams to sign up for tournaments.
+- Reddit API Wrapper for Node.js
+    - *In Progress* https://github.com/vicjohnson1213/Reddit-API
 
-### The Witness Puzzle Solver
+- Python library for easily creating command line interfaces with flexible arguments and structure.
+    - *Created* https://github.com/vicjohnson1213/CommanderPy
 
-### Twitter Bot for the Raspberry Pi
+### Miscellaneous
 
-The Office tweet bot has been out of tweets for a long time and should have something new.
-
-### [Reddit API Wrapper for Node.js](https://github.com/vicjohnson1213/Reddit-API) (In progress)
-
-### Pinterest Style Reddit Client
-
-### Board Style Project Board
-
-### Color Viewer
-
-You can enter any number of Hex, RGB, RGBA, HSB, etc.. colors and look a them all and drag them around to see how they look next to one another.
-
-# Art Project Ideas
-
-### Linoleum Printing
-
-Use linoleum blocks to make prints.
-
-- Single color halftone.
-
-### Art Prints
-
-Either create digital art that can be printed or create hand drawn images that can be scanned and used as art prints.
-
-**Subject Ideas:**
-
-- Personalized morse code posters.
-
-**Links:**
-
-- [printing](iprintfromhome.com)
-
-### 3D Modeling Ideas
-
-- Cities
-- Landscapes
-
-# Miscellaneous Ideas
-
-### Bismuth Crystals
-
-**Links:**
-
-- [How to make them](https://www.reddit.com/r/woahdude/comments/2pvhfh/bismuth_crystal_i_made_it_took_about_30_min/cn0noa8/)
-
-### The Witness Coffee Table
-
-### Raspberry Pi Controlled Plotter
-
-Maybe a V-Plotter or a more regular style plotter.
+- A solver for different types of puzzles found in *The Witness*.
