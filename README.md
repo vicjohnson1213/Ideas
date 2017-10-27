@@ -51,7 +51,7 @@
 ### Games
 
 - Open source Cards Against Humanity style game where somebody can start a game and others can connect to it via browser (or maybe a mobile app 🤔).
-    - Generate a QR code for players to connect txo the game.
+    - Generate a QR code for players to connect to the game.
 
 ### Libraries
 
