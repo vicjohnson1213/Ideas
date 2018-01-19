@@ -28,6 +28,8 @@
 
 - A habit tracking app to notify you when you should be doing things in order to make a habit (go to the gym 3 times a week, read 1 chapter of a book each day, etc.).
 
+- A "days until" countdown. Keep a list of events where the user can choose which one (or none) to show as an app badge icon.
+
 ### Command Line Apps
 
 - Weather information about any city (with an option for a default).
@@ -68,3 +70,8 @@
 ### Miscellaneous
 
 - A solver for different types of puzzles found in *The Witness*.
+
+- A program to pixelate an image based on certain parameters.
+    - Limit the number of possible in each band (R,G,B).
+    - Pull the nearest color from an existing color palette.
+    - *In Progress* https://github.com/vicjohnson1213/Pxl
