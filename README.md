@@ -40,6 +40,8 @@
 
 - Daily ToDo list with rollover tasks.
 
+- Lists application with basic functions for creating and deleting lists as well as adding, removing, and editing list items within each list.
+
 ### Bots
 
 - Quotes Twitter bot to tweet a quote at a specified interval.
