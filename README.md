@@ -80,3 +80,8 @@
     - Limit the number of possible in each band (R,G,B).
     - Pull the nearest color from an existing color palette.
     - *In Progress* https://github.com/vicjohnson1213/Pxl
+    
+- PUBG weapon stats tracker.
+    - Fights won/lost with each weapon.
+    - How frequently you pick up each weapon.
+    - What weapons you switch from/to.
