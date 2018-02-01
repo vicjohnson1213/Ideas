@@ -59,6 +59,7 @@
     
 - Cypher game where a body of text is shown as different letters, colors, or some other randomly assigned thing. The goal is to decypher the text back to its original form.
     - Could display letter probabilities as a hint.
+    - Hard mode with replacements for common combinations of letters (e.g. "ch", "th").
 
 ### Libraries
 
