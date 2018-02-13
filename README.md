@@ -41,6 +41,7 @@
 - Daily ToDo list with rollover tasks.
 
 - Lists application with basic functions for creating and deleting lists as well as adding, removing, and editing list items within each list.
+    - *In Progress* https://github.com/vicjohnson1213/Lst
 
 ### Bots
 
@@ -50,6 +51,7 @@
 - Discord bot bringing some basic utilities to Discord servers.
     - Group users in a specific voice channel into groups of a specified size.
     - Roll an *n* sided die.
+    - Draw straws for everyone in a voice channel.
     - *In Progress* https://github.com/vicjohnson1213/Whiff-Bot-Discord
 
 ### Games
@@ -60,6 +62,7 @@
 - Cypher game where a body of text is shown as different letters, colors, or some other randomly assigned thing. The goal is to decypher the text back to its original form.
     - Could display letter probabilities as a hint.
     - Hard mode with replacements for common combinations of letters (e.g. "ch", "th").
+    - *In Progress* https://github.com/vicjohnson1213/Cypher
 
 ### Libraries
 
