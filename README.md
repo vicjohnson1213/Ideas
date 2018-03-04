@@ -1,91 +1,151 @@
 # Software Project Ideas
 
-### Websites
+# Websites
 
-- Responsive portfolio to replace my current non-responsive one.
-    - Incorporate blog/tutorials pages to share stuff I've learned that may benefit others.
+### Personal portfolio
 
-- Weighted percentage calculator allowing for a variable number of inputs at different weights and values.
-    - *In Progress* https://github.com/vicjohnson1213/Weighted-Percentage-Calculator
+- Incorporate blog/tutorials pages to share stuff I've learned that may benefit others.
 
-- Color viewer where you can enter any number of colors (Hex, RGB, RGBA, HSB, etc.) colors, look a them all, and drag them around to see how they look next to one another.
+### Weighted percentage calculator
 
-- Spotify interface allowing users to search songs and add them to a community queue. Only admin users can remove songs from the queue or switch to the next song.
+- Enter weight by percent or quantity (quantity would require the app to calculate the percent).
+- Dynamic number of inputs.
 
-- Budget manager where users can set up a categorized budget and manage transactions associated with each category.
-    - A complimentary mobile app would be rad.
-    - *In Progress* https://github.com/vicjohnson1213/Budget-Manager
+*In Progress:* https://github.com/vicjohnson1213/Weighted-Percentage-Calculator
 
-- QR code generator.
+### Color viewer
 
-- Home media library to track movies, music, and other forms of media. Could possibly have some kind of "what movie should we watch?" functionality.
+- Support multiple color types (Hex, RGB, RGBA, HSB, etc.).
+- Drag and drop them to see how they look next to one another.
 
-### Desktop Apps
+### Community Spotify client
 
-- Current Spotify song that can be partially transparent and always on top where clicks will pass through to whatever app mighty be running underneath it.
+- Admin user can edit what's already on the queue.
+- Regular users can search for songs and add them to the queue, but not remove or rearrange the queue.
 
-### Mobile Apps
+### Budget manager
 
-- A habit tracking app to notify you when you should be doing things in order to make a habit (go to the gym 3 times a week, read 1 chapter of a book each day, etc.).
+- Create a categorized budget.
+- Create and manage transaction history.
+- Display statistics and data regarding spending habits.
 
-- A "days until" countdown. Keep a list of events where the user can choose which one (or none) to show as an app badge icon.
+*In Progress:* https://github.com/vicjohnson1213/Budget-Manager
 
-### Command Line Apps
+### QR code generator.
 
-- Weather information about any city (with an option for a default).
-    - *Created* https://github.com/vicjohnson1213/PyWeather
+- Generate codes for text, urls, etc.
 
-- A less permanent `rm` command that will use a trash can instead of just wiping files/directories.
-    - *Created* https://github.com/vicjohnson1213/SafeRM
+### Home media library to track movies, music, and other forms of media. Could possibly have some kind of "what movie should we watch?" functionality.
 
-- Daily ToDo list with rollover tasks.
+- Track different types of media (movies, music, books, etc.).
+- Random "what movie should I watch" feature.
 
-- Lists application with basic functions for creating and deleting lists as well as adding, removing, and editing list items within each list.
-    - *In Progress* https://github.com/vicjohnson1213/Lst
+# Desktop Apps
 
-### Bots
+# Mobile Apps
 
-- Quotes Twitter bot to tweet a quote at a specified interval.
-    - *Created* https://github.com/vicjohnson1213/Super-Quote-Bot
+### Habit tracker
 
-- Discord bot bringing some basic utilities to Discord servers.
-    - Group users in a specific voice channel into groups of a specified size.
-    - Roll an *n* sided die.
-    - Draw straws for everyone in a voice channel.
-    - *In Progress* https://github.com/vicjohnson1213/Whiff-Bot-Discord
+- Notifications if you fall behind on a habit.
+- Statistics on each habit.
 
-### Games
+### Countdown
 
-- Open source Cards Against Humanity style game where somebody can start a game and others can connect to it via browser (or maybe a mobile app 🤔).
-    - Generate a QR code for players to connect to the game.
-    
-- Cypher game where a body of text is shown as different letters, colors, or some other randomly assigned thing. The goal is to decypher the text back to its original form.
-    - Could display letter probabilities as a hint.
-    - Hard mode with replacements for common combinations of letters (e.g. "ch", "th").
-    - *In Progress* https://github.com/vicjohnson1213/Cypher
+- Keep multiple days/times to count down to.
+- App badge showing the number of days remaining.
 
-### Libraries
+# Command Line Apps
 
-- Utility to create a CLI based on code. JiT option to run using the interpreter/compiled output directly. AoT option to generate an executable file based on the new CLI.
-    - Node.js
-    - Typescript
+### Weather
 
-- Reddit API Wrapper for Node.js
-    - *In Progress* https://github.com/vicjohnson1213/Reddit-API
+- Check the weather for any city.
+- Default city of none is given.
 
-- Python library for easily creating command line interfaces with flexible arguments and structure.
-    - *Created* https://github.com/vicjohnson1213/CommanderPy
+*Created:* https://github.com/vicjohnson1213/PyWeather
 
-### Miscellaneous
+### Safe `rm`
 
-- A solver for different types of puzzles found in *The Witness*.
+- Move deleted files to a trash folder instead of deleting them.
+- Restore command to put files back.
 
-- A program to pixelate an image based on certain parameters.
-    - Limit the number of possible in each band (R,G,B).
-    - Pull the nearest color from an existing color palette.
-    - *In Progress* https://github.com/vicjohnson1213/Pxl
-    
-- PUBG weapon stats tracker.
-    - Fights won/lost with each weapon.
-    - How frequently you pick up each weapon.
-    - What weapons you switch from/to.
+*Created:* https://github.com/vicjohnson1213/SafeRM
+
+### Daily ToDo list with rollover tasks.
+
+- Roll tasks over to the next day.
+- Mark tasks as completed for history.
+
+### Lists
+
+- maintain multiple lists of things
+
+*In Progress:* https://github.com/vicjohnson1213/Lst
+
+# Bots
+
+### Quotes Twitter bot
+
+- Tweet quotes at a specific interval.
+- Notification about running low on quotes.
+
+*Created:* https://github.com/vicjohnson1213/Super-Quote-Bot
+
+### Discord bot
+
+- Group users in a specific voice channel into groups of a specified size.
+- Roll an *n* sided die.
+- Draw straws for everyone in a voice channel.
+
+*In Progress:* https://github.com/vicjohnson1213/Whiff-Bot-Discord
+
+# Games
+
+### Cypher
+
+A game where a player is given a "cypher" and has to decode what the original message was.
+
+- Replace letters with numbers, colors, or symbol.
+- Could display letter probabilities as a hint.
+- Hard mode with replacements for common combinations of letters (e.g. "ch", "th").
+
+*In Progress:* https://github.com/vicjohnson1213/Cypher
+
+# Libraries
+
+### CLI generator. JiT option to run using the interpreter/compiled output directly. AoT option to generate an executable file based on the new CLI.
+
+- Creates a CLI based on the exported functions in a file.
+- JiT for running the CLI dynamically.
+- AoT for generating an executable file based on the generated CLI.
+- Language support
+  - JS/Node.js
+  - Python
+
+### Reddit API Wrapper for Node.js
+
+- Rate limited API calls.
+
+*In Progress:* https://github.com/vicjohnson1213/Reddit-API
+
+### CLI Helper
+
+- Python - *Created:* https://github.com/vicjohnson1213/CommanderPy
+
+# Miscellaneous
+
+### *The Witness* puzzle solver
+
+- Return all possible solutions to a puzzle.
+
+### Image pixelator
+
+- Limit the number of possible in each band (R,G,B).
+- Pull the nearest color from an existing color palette.
+
+*In Progress:* https://github.com/vicjohnson1213/Pxl
+
+### PUBG weapon stats tracker.
+
+- Fights won/lost with each weapon.
+- How frequently you pick up each weapon.
+- What weapons you switch from/to.
