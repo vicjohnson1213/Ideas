@@ -35,7 +35,7 @@
 
 - Generate codes for text, urls, etc.
 
-### Home media library to track movies, music, and other forms of media. Could possibly have some kind of "what movie should we watch?" functionality.
+### Home media library
 
 - Track different types of media (movies, music, books, etc.).
 - Random "what movie should I watch" feature.
@@ -112,7 +112,7 @@ A game where a player is given a "cypher" and has to decode what the original me
 
 # Libraries
 
-### CLI generator. JiT option to run using the interpreter/compiled output directly. AoT option to generate an executable file based on the new CLI.
+### CLI generator
 
 - Creates a CLI based on the exported functions in a file.
 - JiT for running the CLI dynamically.
