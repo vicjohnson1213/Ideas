@@ -31,7 +31,7 @@
 
 *In Progress:* https://github.com/vicjohnson1213/Budget-Manager
 
-### QR code generator.
+### QR code generator
 
 - Generate codes for text, urls, etc.
 
@@ -70,7 +70,7 @@
 
 *Created:* https://github.com/vicjohnson1213/SafeRM
 
-### Daily ToDo list with rollover tasks.
+### Daily ToDo list
 
 - Roll tasks over to the next day.
 - Mark tasks as completed for history.
@@ -144,7 +144,7 @@ A game where a player is given a "cypher" and has to decode what the original me
 
 *In Progress:* https://github.com/vicjohnson1213/Pxl
 
-### PUBG weapon stats tracker.
+### PUBG weapon stats tracker
 
 - Fights won/lost with each weapon.
 - How frequently you pick up each weapon.
