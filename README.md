@@ -110,6 +110,10 @@ A game where a player is given a "cypher" and has to decode what the original me
 
 *In Progress:* https://github.com/vicjohnson1213/Cypher
 
+### Consciousness
+
+A game where you can transfer your consciousness between bodies in order to solve puzzles or get out of touch positions.
+
 # Libraries
 
 ### CLI generator
