@@ -83,6 +83,12 @@
 
 *In Progress:* https://github.com/vicjohnson1213/Lst
 
+### GitHub Repository Backup Manager
+
+- Command to clone all repos for a username (public and private?).
+  - Ability to exclude repos from the list.
+- Command to go through each repo nd run a `git pull` for each one.
+
 # Bots
 
 ### Quotes Twitter bot
