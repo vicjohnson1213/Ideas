@@ -23,7 +23,9 @@ Websites that your common internet user may find helpful, informative, or fun.
 ### Home media library
 
 - Track different types of media (movies, music, books, etc.).
-- Random "what movie should I watch" feature.
+- Random "what movie should I watch/read" feature.
+- Mark books as read or movies as watched.
+- Wishlists (could just be a new library).
 
 ### QR code generator
 
