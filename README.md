@@ -16,13 +16,16 @@ Just a bunch of ideas that I've had for different software projects. Some of the
 - [Games](Games.md)
     - Consciousness
     - Cypher
+    - Pong
+    - Snake
 - [Libraries](Libraries.md)
     - CLI Generator
     - CLI Helper
     - Reddit API Wrapper for Node.js
 - [Miscellaneous Stuff](Misc.md)
-    - *The Witness* Puzzle Solver
     - Image Pixelator
+    - Sudoku Solver
+    - *The Witness* Puzzle Solver
 - [Mobile Apps](Mobile.md)
     - Countdown
     - Habit Tracker

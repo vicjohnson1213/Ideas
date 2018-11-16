@@ -9,6 +9,10 @@ Software projects that don't really have any optimal platform, but I think would
 
 *In Progress:* https://github.com/vicjohnson1213/Pxl
 
+### Sudoku Solver
+
+A program to solve sudoku puzzles.
+
 ### *The Witness* puzzle solver
 
 - Return all possible solutions to a puzzle.

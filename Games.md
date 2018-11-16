@@ -15,3 +15,13 @@ A game where a player is given a "cypher" and has to decode what the original me
 - Hard mode with replacements for common combinations of letters (e.g. "ch", "th").
 
 *In Progress:* https://github.com/vicjohnson1213/Cypher
+
+### Pong
+
+The classic Pong game.
+
+### Snake
+
+The classic snake game.
+
+*Done:* https://vicjohnson1213.github.io/Snake/
