@@ -12,6 +12,7 @@ Just a bunch of ideas that I've had for different software projects. Some of the
     - Safe `rm`
     - Weather
 - [Desktop Apps](Desktop.md)
+    - Pixel Art Editor
     - Superflight Modding Framework
 - [Games](Games.md)
     - Consciousness
