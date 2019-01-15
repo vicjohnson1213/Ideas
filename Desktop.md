@@ -2,6 +2,18 @@
 
 Desktop apps that people can use for stuff. It's a pretty broad category, so it's getting a pretty broad description.
 
+### Pixel Art Editor
+
+An editor to create pixel art.
+
+- Layers
+- Selection
+- Controls
+  - Keyboard shortcuts for common tools
+  - <kbd>Ctrl</kbd>+<kbd>Scroll</kbd> (or something) to switch selected color
+  - Shift to keep a straight line
+  - Edit an entire line at once
+
 ### Superflight Modding Framework
 
 Download, install, uninstall, and otherwise manage mods for Superflight.
