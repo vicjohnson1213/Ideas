@@ -25,6 +25,7 @@ Just a bunch of ideas that I've had for different software projects. Some of the
     - Reddit API Wrapper for Node.js
 - [Miscellaneous Stuff](Misc.md)
     - Image Pixelator
+    - Mutation/Evolution Simulation
     - Sudoku Solver
     - *The Witness* Puzzle Solver
 - [Mobile Apps](Mobile.md)
