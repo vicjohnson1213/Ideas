@@ -31,6 +31,7 @@ Just a bunch of ideas that I've had for different software projects. Some of the
     - Countdown
     - Habit Tracker
 - [Websites](Websites.md)
+    - Algorithm Visualizer
     - Budget Manager
     - Color Viewer
     - Community Spotify client

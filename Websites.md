@@ -2,6 +2,13 @@
 
 Websites that your common internet user may find helpful, informative, or fun.
 
+### Algorithm Visualizer
+
+A website that people can use to visualize different computer science algorithms.
+
+- Sorting
+- Graph traversal
+
 ### Budget manager
 
 - Create a categorized budget.
