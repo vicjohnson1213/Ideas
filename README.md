@@ -24,6 +24,7 @@ Just a bunch of ideas that I've had for different software projects. Some of the
     - CLI Helper
     - Reddit API Wrapper for Node.js
 - [Miscellaneous Stuff](Misc.md)
+    - Conway's Game of Life
     - Image Pixelator
     - Mutation/Evolution Simulation
     - Sudoku Solver
