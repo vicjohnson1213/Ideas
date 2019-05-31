@@ -2,6 +2,20 @@
 
 Desktop apps that people can use for stuff. It's a pretty broad category, so it's getting a pretty broad description.
 
+### JSON Editor
+
+- Collapsable objects/arrays
+- Editable types
+- Editable values
+
+### Markdown Note Taking App
+
+- Markdown formatting
+- Preview mode
+- Tag based organization
+
+*Created:* https://github.com/vicjohnson1213/Medley
+
 ### Pixel Art Editor
 
 An editor to create pixel art.
