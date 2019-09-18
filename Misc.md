@@ -15,6 +15,12 @@ https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 *In Progress:* https://github.com/vicjohnson1213/Pxl
 
+### Markdown Based Slideshow Creator
+
+- Use markdown to provide the content of a slideshow.
+- Use CSS to layout and style the slides.
+- Output the slideshow as a website so it can run in any browser?
+
 ### Mutation/Evolution Simulation
 
 Given a set of rules and probabilities, each generation may or may not mutate. It could be interesting to see how different mutations become prominent given different measurements for success.
@@ -23,6 +29,6 @@ Given a set of rules and probabilities, each generation may or may not mutate. I
 
 A program to solve sudoku puzzles.
 
-### *The Witness* puzzle solver
+### *The Witness* Puzzle Solver
 
 - Return all possible solutions to a puzzle.

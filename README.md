@@ -28,6 +28,7 @@ Just a bunch of ideas that I've had for different software projects. Some of the
 - [Miscellaneous Stuff](Misc.md)
     - Conway's Game of Life
     - Image Pixelator
+    - Markdown Based Slideshow Creator
     - Mutation/Evolution Simulation
     - Sudoku Solver
     - *The Witness* Puzzle Solver
