@@ -35,6 +35,7 @@ Just a bunch of ideas that I've had for different software projects. Some of the
 - [Mobile Apps](Mobile.md)
     - Countdown
     - Habit Tracker
+    - Mood / Generic Tracker
 - [Websites](Websites.md)
     - Algorithm Visualizer
     - Budget Manager
