@@ -13,6 +13,7 @@ Just a bunch of ideas that I've had for different software projects. Some of the
     - Weather
 - [Desktop Apps](Desktop.md)
     - JSON Editor
+    - Jounalling
     - Markdown Note Taking App
     - Pixel Art Editor
     - Superflight Modding Framework

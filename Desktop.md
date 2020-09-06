@@ -2,6 +2,13 @@
 
 Desktop apps that people can use for stuff. It's a pretty broad category, so it's getting a pretty broad description.
 
+### Jounalling
+
+- Create a new journal entry
+- Titled entries
+- Create and assign tags (bad thoughts, good thoughts, good moments, lyrics, quotes, etc.)
+- Would also love a companion iOS app
+
 ### JSON Editor
 
 - Collapsable objects/arrays
