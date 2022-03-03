@@ -2,6 +2,10 @@
 
 Games that I think would either be fun to code or fun to play (hopefully both).
 
+### Color Fill
+
+Start with a grid of colors (4 or so) and, starting in the top left, change the active color to grow until the whole board is a single color.
+
 ### Consciousness
 
 A game where you can transfer your consciousness between bodies in order to solve puzzles or get out of touch positions.

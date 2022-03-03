@@ -18,6 +18,7 @@ Just a bunch of ideas that I've had for different software projects. Some of the
     - Pixel Art Editor
     - Superflight Modding Framework
 - [Games](Games.md)
+    - Color Fill
     - Consciousness
     - Cypher
     - Pong

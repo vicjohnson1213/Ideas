@@ -9,8 +9,9 @@ A bot for Discord providing some useful utilities to those in a Discord server.
 - Group users in a specific voice channel into groups of a specified size.
 - Roll an *n* sided die.
 - Draw straws for everyone in a voice channel.
+- Auditing
 
-*In Progress:* https://github.com/vicjohnson1213/Whiff-Bot-Discord
+*Created:* https://github.com/vicjohnson1213/Whiff-Bot-Discord
 
 ### Quotes Twitter bot
 
