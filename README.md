@@ -45,4 +45,5 @@ Just a bunch of ideas that I've had for different software projects. Some of the
     - Community Spotify client
     - Home Media Library
     - QR Code Generator
+    - Quote Library
     - Weighted Percentage Calculator

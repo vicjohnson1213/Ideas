@@ -42,6 +42,13 @@ Super basic list app. Just folders and itmes.
 
 - Generate codes for text, urls, etc.
 
+### Quote Library
+
+A little library app/site to collect and search quotes.
+
+- Tags
+- Authors
+
 ### Weighted percentage calculator
 
 - Enter weight by percent or quantity (quantity would require the app to calculate the percent).
