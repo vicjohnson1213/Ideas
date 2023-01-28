@@ -49,6 +49,8 @@ A little library app/site to collect and search quotes.
 - Tags
 - Authors
 
+*Created:* https://github.com/vicjohnson1213/quoted
+
 ### Weighted percentage calculator
 
 - Enter weight by percent or quantity (quantity would require the app to calculate the percent).
